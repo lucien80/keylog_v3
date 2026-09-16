@@ -27,7 +27,7 @@ PORT = 8080
 # ---------------------------------------------------------------------------
 
 # Adresse IP du PC B à renseigner pour le test.
-PC_B = "192.168.1.50"
+PC_B = "10.212.197.249"
 
 # Port utilisé par le récepteur du PC B.
 PORT_B = 9000
